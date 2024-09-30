@@ -20,6 +20,6 @@ module.exports = {
         },
     },
     etherscan: {
-        apiKey: "CGHMVHYPUWADWNTPGKI3FM54E5ICIEJXUH" // Change from polyscan to etherscan
+        apiKey: "" // Change from polyscan to etherscan
         }
     }
